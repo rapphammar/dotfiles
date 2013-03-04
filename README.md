@@ -1,4 +1,6 @@
 dotfiles
 ========
 
-My Configuration files
+My Configuration files for differenct applications
+* emacs
+* vim
